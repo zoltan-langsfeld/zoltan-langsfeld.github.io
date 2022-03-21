@@ -1,29 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "What are my goals with writing a blog?"
 date:   2022-03-21 19:54:04 +0100
-categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I've been flirting with the idea of writing a tech blog for a long time but reading the book [The Complete Software Developer's Career Guide](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide) from John Sonmez gave me the final kick I needed.
 
-Jekyll requires blog post files to be named according to the following format:
+One of the best ways to expand your knowledge & connect with other people from the field is to write a blog on a regular basis.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+So here is a non-comprehensive list of the goals I want to achieve through blogging.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Expand my knowledge
+One of the best ways to expand your knowledge is to write about the topics you just learned. This way, the passive knowledge becomes more active as you force yourself to not only remember but also apply the concepts you learned.
 
-Jekyll also offers powerful support for code snippets:
+## Build a network
+I'd love to connect with other people from the industry, and writing about various topics is one possible tool for that. I'd also like to create a platform where people can get to know me easily.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## Share my thoughts on entrepreneurship
+It's becoming more and more important to develop an entrepreneurial mindset in any profession, and software engineering is no exception from this rule. Most of the articles here will tackle the relationship between software engineering and entrepreneurship.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Improve my writing skills
+The ability to communicate as a professional is essential. As a non-native speaker, one of the best ways to improve my communication skills in English is to write a lot. 
