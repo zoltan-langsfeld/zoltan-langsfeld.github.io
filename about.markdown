@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi There! 👋
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm Zoltan, a software engineer based in Berlin, and this is my blog. 
+I'm passionate about responsibility, leadership, and personal growth. 
+I'm currently working as a Software Engineer at [idealo](https://www.idealo.de/).
+If you want to know more about me, check out my Linkedin or GitHub profile below.
