@@ -160,7 +160,7 @@ We have many options where to store information, but our freedom comes with resp
 The idea that we must write proper documentation can be daunting, especially since we have many responsibilities as software engineers. Most of us are not native speakers or technical writers. Most of us -including myself- learned to program not because I wanted to spend my time writing documentation. However, the bigger your project, the more people read its documentation. If it's inaccurate or incomplete, people will have more questions you'll need to answer, leading to decreased productivity and miscommunication. As we're responsible for making the business successful, we must reconsider our documentation strategy.
 
 
-What can you do from tomorrow to improve your situation?
+The following actions can help you improve your documentation:
 
 * Set specific rules in the team and revise them frequently.
 
@@ -169,3 +169,7 @@ What can you do from tomorrow to improve your situation?
 * Always ask the questions mentioned in this blogpost before you touch existing docs/start writing new ones.
 
 * Keep the number of docs to the minimum and clean up legacy docs.
+
+## References
+* [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
+* [Writing documentation at Django](https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/)
