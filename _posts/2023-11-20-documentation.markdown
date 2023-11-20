@@ -16,9 +16,9 @@ As an engineering team, we had to understand that we're not only responsible for
 * We're responsible for accelerating the speed and accuracy of communication between teams/stakeholders. Having precise documentation can help achieve this goal.
 * We must ensure people will use our product. Lacking proper documentation could lead to potential customers deciding to use a different product instead or implement their custom solution.
 
-After realizing that we had to improve the current state of our documentation, we researched how engineers record information at other companies and open-source projects. We explored how documentation is written at Google by reading the corresponding chapter in the book [Software Engineering at Google](https://abseil.io/resources/swe-book/html/ch03.html##documentation-id00039). We also researched how engineers record the necessary information on the [Django Python project](https://docs.djangoproject.com/en/4.2/).
+After realizing that we had to improve the current state of our documentation, we researched how engineers record information at other companies and open-source projects.
 
-After doing all our research, we concluded that before you start writing or changing existing documentation, you should always ask the following questions.
+After doing all our research, we concluded that before you start writing or changing existing documentation, you should always ask the following [questions] [1]:
 * WHO? You need to know the audience, and each document should have a dedicated owner; otherwise, they'll quickly become stale.
 * WHAT? What category does the document belong to? Is it a tutorial, a reference doc, a how-to guide, or a design doc?
 * WHY? What's the purpose of the document? What kinds of questions will it answer?
@@ -33,7 +33,7 @@ After doing all our research, we concluded that before you start writing or chan
 One of the mistakes engineers sometimes make is not considering the wide range of an audience that will read the documentation they wrote. If the target audience is not well-defined, you could quickly end up in a situation where people will approach you with questions. This way, you will lose time, and your productivity will drop, which you wanted to avoid by writing proper documentation.
 
 
-The team behind Google recommends targeting your audience based on the following dimensions:
+The team behind Google recommends targeting your audience based on the following [dimensions] [1]:
 
 * Experience level: Expert programmers <-> Non-technical people
 
@@ -49,7 +49,7 @@ Documents without explicit owners can quickly become stale. An owner can be a te
 
 ### What is the category of the document?
 
-The team behind Django uses the following four classes to categorize documentation:
+The team behind Django uses the following four [classes][2] to categorize documentation:
 
 
 #### Tutorials
@@ -172,4 +172,9 @@ The following actions can help you improve your documentation:
 
 ## References
 * [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
-* [Writing documentation at Django](https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/)
+* [How the documentation is organized at Django](https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/#how-the-documentation-is-organized)
+
+
+
+[1]: https://abseil.io/resources/swe-book/html/ch03.html#documentation-id00039
+[2]: https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/#how-the-documentation-is-organized
